@@ -84,6 +84,13 @@ FULL SUBTRACTOR:
 
 
 ##  RTL :
+
+
+
+
+
+
+
 HALF SUBTRACTOR:
 
 
@@ -92,7 +99,25 @@ HALF SUBTRACTOR:
 
 
 
+
+
+
+
+
+
+
+
 FULL SUBTRACTOR:
+
+
+
+
+
+
+
+
+
+
 ![Exp4 fs RTL diagram](https://github.com/rakshadharanika/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149348380/4906ce1f-1432-43f7-8f1e-77e099a78735)
 
 
